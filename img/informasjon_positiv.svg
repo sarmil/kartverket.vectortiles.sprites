@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100pt" height="100pt" viewBox="0 0 150 150" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<rect width="100%" height="100%" fill="white"/>
+<path fill="black" transform="scale(0.132, -0.132) translate(0, -1138)" d="M0 1139h1137v-1139h-1137v1139zM29 1112v-1085h1081v1085h-1081zM440 897q0 48 36.5 84.5t86.5 36.5q48 0 86 -35q35 -37 35 -86q0 -48 -35 -86q-37 -35 -86 -35q-51 0 -87 36t-36 85zM342 143v70h70v444h-70v72h365v-516h71v-70h-436z" />
+</svg>

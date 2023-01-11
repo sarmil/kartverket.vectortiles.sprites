@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100pt" height="100pt" viewBox="0 0 150 150" version="1.1" xmlns="http://www.w3.org/2000/svg">
+
+<path fill="black" transform="scale(0.132, -0.132) translate(0, -1138)" d="M180 426l252 -2l19 182q-51 68 -134 68q-87 -8 -125 -54.5t-38 -107.5q0 -63 26 -86zM502 262v72l-154 -2v-70h154zM920 643l-7 4l-6 4q-24 27 -24 60q0 34 25.5 60t58.5 26q32 0 59 -27q27 -24 27 -59q0 -33 -26.5 -58.5t-59.5 -25.5q-17 0 -21 2l-14 -35l-379 -127 l-2 -205h104q31 0 39 -8q6 -10 8 -27q0 -32 -32 -32h-504q-29 0 -29 32q0 16 7.5 25.5t21.5 11.5h139v70h-94q-46 25 -75.5 73.5t-29.5 104.5t27.5 103.5t77.5 74.5q46 29 102 29q73 0 142 -60l12 84l10 11v67l-383 -92l-20 53l798 197l19 -55l-383 -97v-71l10 -8l23 -107 h350z" />
+</svg>
