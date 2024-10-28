@@ -10,29 +10,3 @@ spec:
   lifecycle: "production"
   owner: "datadeling_og_distribusjon"
   system: "tjenester"
----
-apiVersion: "backstage.io/v1alpha1"
-kind: "Group"
-metadata:
-  name: "security_champion_kartverket.vectortiles.sprites"
-  title: "Security Champion kartverket.vectortiles.sprites"
-spec:
-  type: "security_champion"
-  parent: "land_security_champions"
-  members:
-  - "carsmie"
-  children:
-  - "resource:kartverket.vectortiles.sprites"
----
-apiVersion: "backstage.io/v1alpha1"
-kind: "Resource"
-metadata:
-  name: "kartverket.vectortiles.sprites"
-  links:
-  - url: "https://github.com/kartverket/kartverket.vectortiles.sprites"
-    title: "kartverket.vectortiles.sprites på GitHub"
-spec:
-  type: "repo"
-  owner: "security_champion_kartverket.vectortiles.sprites"
-  dependencyOf:
-  - "component:kartverket.vectortiles.sprites"
